@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remove-project name="platform/prebuilts/sdk" />
+  <project path="prebuilts/sdk" name="platform_prebuilts_sdk" remote="BlissRoms" />
+
   <project path="device/asus/I001D" name="BlissRoms-Devices/android_device_asus_I001D" remote="github"  revision="universe" />
   <project path="device/asus/sm8150-common" name="BlissRoms-Devices/android_device_asus_sm8150-common" remote="github"  revision="universe" />
   <project path="kernel/asus/I001D" name="BlissRoms-Devices/android_kernel_asus_I001D" remote="github" revision="universe" />
