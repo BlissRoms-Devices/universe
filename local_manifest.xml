@@ -7,7 +7,7 @@
     <project path="kernel/nothing/sm7325" remote="github" name="PixysOS-Devices/kernel_nothing_sm7325" revision="fourteen-v3" />
     <project path="packages/apps/PixysGlyph" remote="github" name="PixysOS-Devices/packages_apps_PixysGlyph" revision="fourteen-v3" />
     <project path="vendor/nothing/camera" remote="gitlab" name="PixysOS-fourteen/vendor_nothing_camera" revision="fourteen-v3" />
-    <project path="vendor/bliss-prebuilts" remote="gitlab" name="PixysOS-fourteen/vendor_pixys-prebuilts" revision="fourteen-v3" />
+    <project path="vendor/bliss-prebuilts" remote="gitlab" name="AyanC1/vendor_pixys-prebuilts" revision="fourteen-v3" />
     <project path="vendor/nothing/Spacewar/radio" remote="gitlab" name="PixysOS-fourteen/vendor_nothing_Spacewar_radio" revision="fourteen" />
 
 </manifest>
