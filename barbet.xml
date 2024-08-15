@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remove-project name="device/google/gs-common" />
-  <project path="device/google/gs-common" name="LineageOS/android_device_google_gs-common" remote="github" revision="lineage-21" />
+  <project path="device/google/gs-common" name="BlissRoms-Devices/android_device_google_gs-common" remote="github" revision="universe" />
   <project path="device/google/barbet" name="BlissRoms-Devices/android_device_google_barbet" remote="github" revision="universe" />
   <project path="device/google/redbull" name="BlissRoms-Devices/android_device_google_redbull" remote="github" revision="universe" />
   <project path="kernel/google/redbull" name="LineageOS/android_kernel_google_redbull" remote="github" revision="lineage-21" />
