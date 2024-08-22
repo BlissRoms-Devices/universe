@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="BlissRoms-Devices1"
+           fetch="ssh://git@github.com/asus-sm8450" />
+
+  <project path="device/asus/AI2202" remote="BlissRoms-Devices1" name="android_device_asus_AI2202" revision="universe" />
+  <project path="device/asus/AI2202-kernel" remote="BlissRoms-Devices1" name="android_device_asus_AI2202-kernel" revision="universe" />
+  <project path="kernel/asus/AI2202" remote="BlissRoms-Devices1" name="android_kernel_asus_AI2202" revision="universe" />
+  <project path="vendor/asus/AI2202" remote="BlissRoms-Devices1" name="proprietary_vendor_asus_AI2202" revision="universe" />
+</manifest>
