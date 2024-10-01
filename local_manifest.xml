@@ -11,5 +11,6 @@
     <remove-project name="platform_frameworks_base" />
     <project path="frameworks/base" remote="github" name="blissrom-macka/platform_frameworks_base" revision="universe" />
     <project path="vendor/xiaomi/lmi-miuicamera" remote="codeberg" name="lmi-miuicamera" revision="bliss-14" />
+    <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="BlissRoms-Devices" revision="universe" />
    
 </manifest>
