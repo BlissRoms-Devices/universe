@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<remote name="github" fetch="https://github.com/macka69" />
+<remote name="macka69" fetch="https://github.com/macka69" />
 <remote name="codeberg" fetch="https://codeberg.org/macka69" />
 
 <!-- Trees -->
-    <project path="device/xiaomi/lmi" remote="github" name="device_xiaomi_lmi-2" revision="bliss-14" />
-    <project path="vendor/xiaomi/lmi" remote="github" name="vendor_xiaomi_lmi-2" revision="bliss-14" />
-    <project path="kernel/xiaomi/sm8250" remote="github" name="kernel_xiaomi_sm8250-1" revision="bliss-14" />
-    <project path="frameworks/base" remote="github" name="blissrom-macka/platform_frameworks_base" revision="universe" />
+    <project path="device/xiaomi/lmi" remote="macka69" name="device_xiaomi_lmi-2" revision="bliss-14" />
+    <project path="vendor/xiaomi/lmi" remote="macka69" name="vendor_xiaomi_lmi-2" revision="bliss-14" />
+    <project path="kernel/xiaomi/sm8250" remote="macka69" name="kernel_xiaomi_sm8250-1" revision="bliss-14" />
+    <project path="frameworks/base" remote="macka69" name="blissrom-macka/platform_frameworks_base" revision="universe" />
     <project path="vendor/xiaomi/lmi-miuicamera" remote="codeberg" name="lmi-miuicamera" revision="bliss-14" />
    
 </manifest>
