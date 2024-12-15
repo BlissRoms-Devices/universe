@@ -11,7 +11,7 @@
 <project path="vendor/xiaomi/peridot" name="vendor_xiaomi_peridot" remote="BlissRoms-Devices" revision="universe" />
 <project path="device/xiaomi/peridot-miuicamera" name="device_xiaomi_peridot-miuicamera" remote="BlissRoms-Devices" revision="main" />
 <project path="vendor/xiaomi/peridot-miuicamera" name="vendor_xiaomi_peridot-miuicamera" remote="swapnil-gitlab" revision="main" />
-<project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="BlissRoms-Devices" revision="peridot" />
+<project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="BlissRoms-Devices" revision="peridot-universe" />
 
 <!-- frameworks for fp fix -->
 <remove-project name="platform_frameworks_base" />
